@@ -1,0 +1,3 @@
+dans dossier public => index.html contient la div root
+
+google => css reset eric mayer => tout copier coller dans index.css pour tout reset
