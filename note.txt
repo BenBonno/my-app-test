@@ -1,3 +1,15 @@
 dans dossier public => index.html contient la div root
 
 google => css reset eric mayer => tout copier coller dans index.css pour tout reset
+
+Principaux points à retenir
+
+Babel - nous permet de transformer le code React en JavaScript afin qu'il puisse être utilisé par n'importe quel navigateur "récent" (sorti après 2010, environ).
+
+npx - utilisé pour installer un module localement à partir d'une ressource en ligne, par exemple create-react-app.
+
+Webpack - responsable de la compilation de tout notre code à partir du dossier src. Il fournit également un serveur pour que nous puissions visualiser notre application.
+
+Create React App - une solution prête à l'emploi pour créer facilement des applications à grande échelle.
+
+// npx create-react-app <name> uniquement au début du projet. // puis npm start dans le dossier <name>
