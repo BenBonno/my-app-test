@@ -4,7 +4,7 @@ import { useState } from "react"
 const HelloWorld = (props) => {
     const [red, setRed] = useState(false)
 
-    // const colorHandler = () => setRed(!red) permet de mettre dans le onClick une fonction (sans parenthese juste avec accolade : rem^place setRed(!red))
+    // const colorHandler = () => setRed(!red) permet de mettre dans le onClick une fonction (sans parenthese juste avec accolade : remplace setRed(!red)) par {colorHandler}
 
     return (
         <div className='big'>
